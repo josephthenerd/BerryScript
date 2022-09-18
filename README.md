@@ -66,6 +66,22 @@ python3 BerryScript.py
 
 hit enter and you should be logged in.
 
+# LIST OF COMMANDS
+
 REMEMBER!!! ALL COMMANDS ARE IN CAPITALS!!!
 
+HELP - hows a list of commands
+EXIT - exits program
+LED FADE ON - slowly turns on the single colour leds
+LED FADE OFF - slowly turns off the single colour leds
 
+The next comands changes the colour of the rgb leds
+
+RED
+GREEN
+BLUE
+YELLOW
+CYAN
+MAGENTA
+WHITE
+BLACK - turns rgb leds off
