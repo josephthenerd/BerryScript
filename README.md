@@ -46,11 +46,11 @@ WIRING RGB LEDs.
 
 all rgb pins share the same gpios.
 
-red pin - gpio 3
+red pin - gpio 17
 
 green pin - gpio 4
 
-blue pin - gpio 17
+blue pin - gpio 3
 
 ground pin - any gnd pin on board
 
