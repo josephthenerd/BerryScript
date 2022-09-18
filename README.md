@@ -46,9 +46,12 @@ WIRING RGB LEDs.
 
 all rgb pins share the same gpios.
 
-red pin - gpio 17
+red pin - gpio 3
+
 green pin - gpio 4
-blue pin - gpio 3
+
+blue pin - gpio 17
+
 ground pin - any gnd pin on board
 
 WIRING LEDs.
@@ -71,17 +74,28 @@ hit enter and you should be logged in.
 REMEMBER!!! ALL COMMANDS ARE IN CAPITALS!!!
 
 HELP - hows a list of commands
+
 EXIT - exits program
+
 LED FADE ON - slowly turns on the single colour leds
+
 LED FADE OFF - slowly turns off the single colour leds
+
 
 The next comands changes the colour of the rgb leds
 
 RED
+
 GREEN
+
 BLUE
+
 YELLOW
+
 CYAN
+
 MAGENTA
+
 WHITE
+
 BLACK - turns rgb leds off
