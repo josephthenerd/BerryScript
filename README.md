@@ -83,6 +83,7 @@ LED FADE ON - slowly turns on the single colour leds
 
 LED FADE OFF - slowly turns off the single colour leds
 
+CLEAR - clears the screen.
 
 The next comands changes the colour of the rgb leds
 
