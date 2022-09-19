@@ -73,7 +73,7 @@ hit enter and you should be logged in.
 
 REMEMBER!!! ALL COMMANDS ARE IN CAPITALS!!!
 
-HELP - hows a list of commands
+HELP - shows a list of commands
 
 EXIT - exits program
 
