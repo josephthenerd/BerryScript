@@ -67,7 +67,7 @@ To run the software, open terminal and type
 
 cd BerryScript
 
-python3 BerryScript.py
+python3 BerryScriptV1.py
 
 hit enter and you should be logged in.
 
