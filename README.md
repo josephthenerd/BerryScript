@@ -61,9 +61,11 @@ negative pin - any gnd pin on board.
 
 # STEP 4 
 
-power on your  raspbery pi. The rgb leds should be blue.
+power on your  raspbery pi. The rgb leds should be blue. And normal led on.
 
 To run the software, open terminal and type
+
+cd BerryScript
 
 python3 BerryScript.py
 
